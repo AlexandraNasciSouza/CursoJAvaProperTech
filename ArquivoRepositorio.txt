@@ -1,0 +1,7 @@
+Entrei no site do Github.
+Criei um novo repositório: 
+Copiei o caminho do repositório: https://github.com/AlexandraNasciSouza/CursoJAvaProperTech.git
+No prompt de comando clonei o repositório para minha máquina, assim criando um repositório local.
+
+
+
