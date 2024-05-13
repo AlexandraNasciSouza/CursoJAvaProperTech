@@ -1,7 +1,12 @@
 Entrei no site do Github.
-Criei um novo repositório: 
-Copiei o caminho do repositório: https://github.com/AlexandraNasciSouza/CursoJAvaProperTech.git
-No prompt de comando clonei o repositório para minha máquina, assim criando um repositório local.
+Criei um novo repositï¿½rio: 
+Copiei o caminho do repositï¿½rio: https://github.com/AlexandraNasciSouza/CursoJAvaProperTech.git
+No prompt de comando clonei o repositï¿½rio para minha mï¿½quina, assim criando um repositï¿½rio local.
+Criei o arquivo "ArquivoRepositorio.txt"
+fiz um git add . para adicionar os arquivos modificados.
+Dei o git commit com a mesagem "primeiro commit deste projeto"
+Dei o git push -u origin main
+
 
 
 
